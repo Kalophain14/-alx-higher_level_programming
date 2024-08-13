@@ -1,59 +1,41 @@
-C programming language
+# Higher-level programming - Python
 
-**Low-Level C Programming Description:**
+The programs in this repository were developed for the advanced programming course offered by ALX Africa. I started working on these projects during the fourth month of my first-year curriculum, with a focus on learning Python. At the same time, I also worked on strengthening my expertise in C and shell scripting. Below is a comprehensive list of the projects included in this repository:
 
-This C programming guide emphasizes:
-
-1. **Variables & Control Structures:**
-   - Master variables, if-else for decision making.
-   
-2. **Functions:**
-   - Organize code into functions for modularity.
-   
-3. **Debugging:**
-   - Learn debugging techniques for problem-solving.
-   
-4. **Pointers:**
-   - Master pointers for memory management.
-   
-5. **Recursion:**
-   - Understand recursive functions.
-   
-6. **Static Libraries:**
-   - Create and use static libraries.
-   
-7. **argc and argv:**
-   - Utilize command-line arguments.
-   
-8. **Malloc:**
-   - Dynamic memory allocation using malloc, realloc, calloc and free.
-   
-9. **Preprocessor:**
-   - Work with preprocessor directives.
-   
-10. **Structures:**
-    - Define and use structures for data grouping.
-    
-11. **Linked Lists:**
-    - Build and manipulate linked lists for data storage.
-12. **Bit Manipulation
-    - bitwise operations, manipulating individual bits (0 or 1) within binary numbers.
-13. **Buidling projects
-    - printf and simple shell.
-
-This guide provides practical knowledge for low-level C programming.
-## Authors
-
-- [@Kalophain14](https://github.com/Kalophain14)
+* [0x00. Python - Hello, World](./0x00-python-hello_world)
+* [0x01-python-if_else_loops_functions](./0x01-python-if_else_loops_functions)
+* [0x02-python-import_modules](./0x02-python-import_modules)
+* [0x03-python-data_structures](./0x03-python-data_structures)
+* [0x04-python-more_data_structures](./0x04-python-more_data_structures)
+* [0x05-python-exceptions](./0x05-python-exceptions)
+* [0x06-python-classes](./0x06-python-classes)
+* [0x07-python-test_driven_development](./0x07-python-test_driven_development)
+* [0x08-python-more_classes](./0x08-python-more_classes)
+* [0x09-python-everything_is_object](./0x09-python-everything_is_object)
+* [0x0A-Python-Inheritance](./0x0A-Python-Inheritance)
+* [0x0B-python-input_output](./0x0B-python-input_output)
+* [0x0C-python-almost_a_circle](./0x0C-python-almost_a_circle)
+* [0x0D-SQL_introduction](./0x0D-SQL_introduction)
+* [0x0E-SQL_more_queries](./0x0E-SQL_more_queries)
+* [0x12-javascript-warm_up](./0x12-javascript-warm_up)#
+* [0x13-javascript_objects_scopes_closures](./0x13-javascript_objects_scopes_closures)
+* [0x0F-python-object_relational_mapping](./0x0F-python-object_relational_mapping)
+* [0x14-javascript-web_scraping](./0x14-javascript-web_scraping)
+* [0x15-javascript-web_jquery](./0x15-javascript-web_jquery)
 
 
-## Used By
+## Author :
 
-This repo is used by the following companies:
+* **Birhan Abuhay Jemere** <[TgGeda](https://github.com/TgGeda)>
 
-- ALX Africa
-- Holberton School
+## Acknowledgements :pray:
 
+The curriculum for ALX Africa SE necessitated the completion of all tasks within this project. ALX Africa SE is an online program that trains students in full-stack software engineering, utilizing project-based peer learning to prepare them for careers in the tech industry. For more information, visit
+[this link](https://www.alxafrica.com//).
 
-## 🛠 Skills
-C
+<p align="center">
+  <img src="http://www.alxafrica.com/wp-content/uploads/2022/01/header-logo.png"
+       alt="ALX Afroca Logo"
+  >
+</p>
+

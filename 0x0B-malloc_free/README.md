@@ -1,4 +1,0 @@
-Malloc
-Calloc
-Free
-Pointers
